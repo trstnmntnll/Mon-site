@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mon Site</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur mon site</h1>
+    <nav>
+      <a href="#about">À propos</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>À propos</h2>
+      <p>Je suis passionné par le web, les technologies, et le partage de connaissances.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Vous pouvez me contacter par mail à <a href="mailto:tonadresse@email.com">tonadresse@email.com</a>.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Mon Site – Tous droits réservés</p>
+  </footer>
+</body>
+</html>
+
